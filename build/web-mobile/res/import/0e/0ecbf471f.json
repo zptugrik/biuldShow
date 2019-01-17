@@ -1,0 +1,764 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Frame_01_Fold",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        893,
+        1512,
+        87,
+        112
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        87,
+        112
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Slide_01",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        710,
+        1285,
+        111,
+        403
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        111,
+        403
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "BG_02",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        1,
+        643,
+        640,
+        1136
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        640,
+        1136
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Settings",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        768,
+        1398,
+        55,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        55,
+        56
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Frame_02_Call",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        982,
+        1398,
+        87,
+        112
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        87,
+        112
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Frame_00_Off",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        804,
+        1456,
+        87,
+        112
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        87,
+        112
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Token_02_Green",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        378,
+        1589,
+        33,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        33,
+        33
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Messenger",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        825,
+        1398,
+        49,
+        46
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        49,
+        46
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Frame_03_Raise",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        982,
+        1487,
+        87,
+        112
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        87,
+        112
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "BG_01",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        1,
+        1,
+        640,
+        1136
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        640,
+        1136
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Home",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        343,
+        1470,
+        117,
+        117
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        117,
+        117
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "arrow",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        710,
+        1398,
+        56,
+        60
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        60,
+        60
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Player",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        343,
+        1285,
+        183,
+        183
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        183,
+        183
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "texas_holdem.plist",
+    "_spriteFrames": {
+      "01_Fold": {
+        "__uuid__": "f9D+BBNTFDkrjS593VFtQI"
+      },
+      "02_Call": {
+        "__uuid__": "f7dOIbXMhHQqQPDxVn1q2C"
+      },
+      "03_Raise": {
+        "__uuid__": "d0/Qtp73VA2aSdwNFOAPG8"
+      },
+      "BG_01": {
+        "__uuid__": "55TPK59KFAU4HgGBHRgHhn"
+      },
+      "BG_02": {
+        "__uuid__": "25o1RgjzdO+JClWQy2RHUD"
+      },
+      "Circle_BLUE": {
+        "__uuid__": "93yfM7LkdHO4eFUNAqqYKt"
+      },
+      "Circle_RED": {
+        "__uuid__": "92LSO4DWJKT49Zd5hQgHxT"
+      },
+      "Frame_00_Off": {
+        "__uuid__": "42WTn65wpPPYENeJ+ua4nY"
+      },
+      "Frame_00_Off_no_alpha": {
+        "__uuid__": "9ejPFHIiZOh4EStxU6JYpz"
+      },
+      "Frame_01_Fold": {
+        "__uuid__": "08iMiie5FINY9gqVyZNp+L"
+      },
+      "Frame_02_Call": {
+        "__uuid__": "39n7xdnjFG97H8e3zw91W+"
+      },
+      "Frame_03_Raise": {
+        "__uuid__": "4doRUeWvdNVoaKtLiajcZY"
+      },
+      "Home": {
+        "__uuid__": "5fF7+2QedKsJgAY7GoGVKw"
+      },
+      "Messenger": {
+        "__uuid__": "44Ie/eXQ5MQqmflLXinv4Z"
+      },
+      "Player": {
+        "__uuid__": "6di2p7wQBGL6xTXCaLGIOM"
+      },
+      "Settings": {
+        "__uuid__": "256YKCRuxBIqlA6zUwZnuo"
+      },
+      "Slide_01": {
+        "__uuid__": "21LpL0ZNRL36GQk9On2Yef"
+      },
+      "Slide_02": {
+        "__uuid__": "dcPMrMoixGbrRd1klDoOrV"
+      },
+      "Slide_03": {
+        "__uuid__": "d7GPC/z7xLPqVVzDnOTobx"
+      },
+      "Token_01_Red": {
+        "__uuid__": "8eotTTv/dLKa0l4NaLiCxa"
+      },
+      "Token_02_Green": {
+        "__uuid__": "43GBwrqZ5FcofIwpkgMBWG"
+      },
+      "Token_03_Blue": {
+        "__uuid__": "d97ZKzMCdCsLIGkmQiAbIq"
+      },
+      "Token_04_White": {
+        "__uuid__": "e57/YYRMhKuoMJHY5hZ42N"
+      },
+      "Token_05_Black": {
+        "__uuid__": "e5jetiKWdGwLBwKmA005EE"
+      },
+      "arrow": {
+        "__uuid__": "6cdIOycSJMlbrvbznZGtso"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Token_01_Red",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        343,
+        1589,
+        33,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        33,
+        33
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Circle_RED",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        528,
+        1285,
+        180,
+        180
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        180,
+        180
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Circle_BLUE",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        1,
+        1285,
+        340,
+        340
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        340,
+        340
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Frame_00_Off_no_alpha",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        893,
+        1398,
+        87,
+        112
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        87,
+        112
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "03_Raise",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        690,
+        1467,
+        112,
+        112
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        112,
+        112
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Slide_03",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        518,
+        1584,
+        29,
+        29
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        29,
+        29
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Token_03_Blue",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        413,
+        1589,
+        33,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        33,
+        33
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Slide_02",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        549,
+        1584,
+        29,
+        12
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        29,
+        12
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Token_05_Black",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        483,
+        1584,
+        33,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        33,
+        33
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Token_04_White",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        448,
+        1589,
+        33,
+        33
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        33,
+        33
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "02_Call",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        576,
+        1467,
+        112,
+        112
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        112,
+        112
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "01_Fold",
+      "texture": "d2hps8TFJPKpdBwCGkzYfH",
+      "rect": [
+        462,
+        1470,
+        112,
+        112
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        112,
+        112
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

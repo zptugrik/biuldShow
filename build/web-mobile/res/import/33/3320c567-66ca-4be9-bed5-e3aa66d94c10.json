@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "avatar_v1",
+    "texture": "45qF/2iptFFZ/dHT2n9AA+",
+    "rect": [
+      0,
+      0,
+      885,
+      260
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      885,
+      260
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
