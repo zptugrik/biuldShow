@@ -1,0 +1,159 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shadow_bg_for_loader",
+      "texture": "a0rZcY7fdHAosa/5O+z7sA",
+      "rect": [
+        1,
+        1283,
+        659,
+        56
+      ],
+      "offset": [
+        0,
+        3
+      ],
+      "originalSize": [
+        659,
+        62
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "Loading_text",
+      "texture": "a0rZcY7fdHAosa/5O+z7sA",
+      "rect": [
+        1,
+        1341,
+        169,
+        46
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        169,
+        52
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "LOADER_SOSADGE",
+      "texture": "a0rZcY7fdHAosa/5O+z7sA",
+      "rect": [
+        723,
+        1,
+        645,
+        40
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        645,
+        40
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "point",
+      "texture": "a0rZcY7fdHAosa/5O+z7sA",
+      "rect": [
+        662,
+        1283,
+        11,
+        11
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        11,
+        11
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "BG_BLUE",
+      "texture": "a0rZcY7fdHAosa/5O+z7sA",
+      "rect": [
+        1,
+        1,
+        720,
+        1280
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        720,
+        1280
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "loading_window.plist",
+    "_spriteFrames": {
+      "BG_BLUE": {
+        "__uuid__": "e6Z3WKnWpPlYpgg3D0MF98"
+      },
+      "LOADER_SOSADGE": {
+        "__uuid__": "af99lYrXNEapeHDioHT3iX"
+      },
+      "Loading_text": {
+        "__uuid__": "ae6BDJZ8JEQ6xxtVyY0bsg"
+      },
+      "point": {
+        "__uuid__": "dfkWNH62JBP6Io7PJQzJkL"
+      },
+      "shadow_bg_for_loader": {
+        "__uuid__": "814TrhLaZJq7X5aQCujGWR"
+      }
+    }
+  }
+]
