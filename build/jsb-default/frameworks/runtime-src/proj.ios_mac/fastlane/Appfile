@@ -1,8 +1,0 @@
-app_identifier("com.uw.pockertest") # The bundle identifier of your app
-apple_id("ababichev2404@gmail.com") # Your Apple email address
-
-itc_team_id("118494598") # App Store Connect Team ID
-team_id("725N75W5PV") # Developer Portal Team ID
-
-# For more information about the Appfile, see:
-#     https://docs.fastlane.tools/advanced/#appfile
